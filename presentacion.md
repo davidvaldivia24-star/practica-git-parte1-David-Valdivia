@@ -4,3 +4,5 @@ Nombre: David Valdivia Guillén\n Presentacion: Estoy aprendiendo Git + GitHub
 - Futbol
 - Ciclismo
 - Viajar
+
+Pelicula favorita:Gladiator
